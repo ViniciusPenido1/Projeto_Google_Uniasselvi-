@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".vscode"
+		},
+		{
+			"path": "fontawesome"
+		},
+		{
+			"path": "img"
+		}
+	],
+	"settings": {
+		"totvsLanguageServer.welcomePage": false,
+		"liveServer.settings.multiRootWorkspaceName": ".vscode"
+	}
+}
